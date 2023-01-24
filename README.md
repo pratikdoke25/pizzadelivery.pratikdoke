@@ -8,5 +8,5 @@
   - npm install
   - npm start
 
-Let me know if you have any questions. Email 📧pratikdoke7038@gmail.com.com
+Let me know if you have any questions. Email 📧pratikdoke7038@gmail.com
 
